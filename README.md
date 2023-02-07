@@ -1,3 +1,5 @@
+<span id="top"></span>
+
 # Calculadora | #boraCodar
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/diasPaulo/calculadora?style=flat)
@@ -23,4 +25,4 @@ Projeto construído para fins didáticos, com o objetivo de colocar em prática 
 - CSS
 - Javascript
 
-[⬆ Voltar ao topo](#Calculadora-|-#boraCodar)
+<a href="#top">⬆ Voltar ao topo</a>
