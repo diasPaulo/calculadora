@@ -13,7 +13,7 @@ Projeto construído para fins didáticos, com o objetivo de colocar em prática 
 
 <br />
 
-<img src="./.images/mockup.png" height="500px" alt="Mockup do projeto mostrando a tela do projeto em um notebook" style="display: block; margin-left: auto; margin-right: auto;border-radius: 15px" />
+<img src="./.images/mockup.png" height="500px" alt="imagem do projeto" style="display: block; margin-left: auto; margin-right: auto;border-radius: 15px" />
 
 <br>
 
